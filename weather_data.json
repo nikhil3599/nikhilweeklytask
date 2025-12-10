@@ -1,0 +1,17 @@
+[
+    {
+        "city": "London",
+        "temperature": 13.04,
+        "description": "broken clouds"
+    },
+    {
+        "city": "New York",
+        "temperature": 0.48,
+        "description": "broken clouds"
+    },
+    {
+        "city": "Tokyo",
+        "temperature": 9.56,
+        "description": "clear sky"
+    }
+]
