@@ -1,3 +1,5 @@
+**Architectural diagram**
+                 
                  +-----------------------------+
                  |      Scheduler / Trigger     |
                  | (Cron / EventBridge / Manual)|
@@ -26,3 +28,4 @@
                  |  - Conditions                |
                  |  - ISO Timestamp             |
                  +---------
+
